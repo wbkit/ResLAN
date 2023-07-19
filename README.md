@@ -1,5 +1,6 @@
 # [IROS23] Meta Depth Completion - ResLAN
-**WolfgangBoettcher, Lukas Hoyer, Ozan Unal, Dengxin Dai**
+__Wolfgang Boettcher, Lukas Hoyer, Ozan Unal, Dengxin Dai__
+
 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2023)*
 
 ## News
