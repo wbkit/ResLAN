@@ -1,13 +1,17 @@
-# [IROS23] Meta Depth Completion - ResLAN
-__Wolfgang Boettcher, Lukas Hoyer, Ozan Unal, Dengxin Dai__
+# [IROS23] LiDAR Meta Depth Completion - ResLAN
+__by [Wolfgang Boettcher](https://www.linkedin.com/in/wolfgang-boettcher/), [Lukas Hoyer](https://lhoyer.github.io/), [Ozan Unal](https://github.com/ouenal), [Dengxin Dai](https://vas.mpi-inf.mpg.de/dengxin/)__
 
 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2023)*
 
 ## News
 
+__Code will be released soon!__
+
 - June 2023: Our paper was accepted to IROS2023
 
 ## Introduction
+
+![Overview of the paper](/img/overview.png)
 
 Depth estimation is one of the essential tasks to
 be addressed when creating mobile autonomous systems. While
@@ -37,3 +41,11 @@ These advantages allow flexible deployment of a single depth
 completion model on different sensors, which could also prove
 valuable to process the input of nascent LiDAR technology with
 adaptive instead of fixed scanning patterns.
+
+
+## License
+
+This project is released under the [Apache License 2.0](LICENSE), while some 
+specific features in this repository are with other licenses. Please refer to 
+[LICENSE](LICENSE) for the careful check, if you are using our code for 
+commercial matters.
